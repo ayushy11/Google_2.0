@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import Header from './Header';
+import Header from '../components/Header';
 import { API_KEY, CONTEXT_KEY } from '../keys';
 import Response from '../Response';
 import { useRouter } from 'next/router';
